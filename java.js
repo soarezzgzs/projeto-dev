@@ -14,8 +14,4 @@ function toggleMode(){
         img.setAttribute('src', './assets/avatar.png')
 
     }
-
-   //pegar tag img
-
-
 }
